@@ -1,0 +1,2 @@
+# django_rest_with_user_roles_permission
+django_rest_with_user_roles_permission Django Rest framework with user roles and permissions
