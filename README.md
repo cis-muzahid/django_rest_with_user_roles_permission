@@ -7,13 +7,13 @@ django_rest_with_user_roles_permission Django Rest framework with user roles and
 
 - The first thing to do is to clone the repository:
 
-- git clone https://github.com/
+- git clone - https://github.com/cis-muzahid/django_rest_with_user_roles_permission
 
 
 - Create a virtual environment to install dependencies in and activate it:
 
 
-- virtualenv -p python3.8 env_name
+- python3.12 -m venv env_name
 
 
 - source env_name/bin/activate
